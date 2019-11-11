@@ -1,0 +1,21 @@
+Tema ,Categoría ,Variable
+Residuos Orgánicos,Origen de los residuos,Producción en el campo
+,,Distribución/comercialización
+,,Transformación de alimentos
+,,"	Vivienda"
+,,"	Comedor industrial"
+,,"	Restaurante"
+,,"	Otro. Especifique:"
+,Tipo de residuos,"	Alimentos"
+,,"	Partes no comestibles"
+,Destino de los residuos,Alimentación animal
+,,"	Biomaterial/procesamiento"
+,,Codigestión anaerobia
+,,"	Composteo"
+,,Combustión controlada
+,,Aplicación en la tierra
+,,"	No cosechado"
+,,"	Vertedero"
+,,"	Basura"
+,,"	Residuos al agua"
+,,"	No sabe"

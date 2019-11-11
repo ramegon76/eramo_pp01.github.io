@@ -1,0 +1,34 @@
+﻿x,y,z,w
+Vegetal crudo,Comestible,Pérdida,kilogramos/litros
+,,Desperdicio,kilogramos/litros
+,Partes no comestibles,Desperdicio,kilogramos/litros
+Vegetal procesado,Comestible,Pérdida,kilogramos/litros
+,,Desperdicio,kilogramos/litros
+,Partes no comestibles,Desperdicio,kilogramos/litros
+Animal crudo,Comestible,Pérdida,kilogramos/litros
+,,Desperdicio,kilogramos/litros
+,Partes no comestibles,Desperdicio,kilogramos/litros
+Animal procesado,Comestible,Pérdida,kilogramos/litros
+,,Desperdicio,kilogramos/litros
+,Partes no comestibles,Desperdicio,kilogramos/litros
+Otro tipo,Comestible,Pérdida,kilogramos/litros
+,,Desperdicio,kilogramos/litros
+,Partes no comestibles,Desperdicio,kilogramos/litros
+Orgánicos,Poda de parques y jardines,Desperdicio,kilogramos
+Pérdida y desperdicio de alimentos,Fuente de los residuos,Producción de alimentos postcosecha,kilogramos/litros
+,,Venta de animales para alimento,kilogramos/litros
+,,Procesamiento de alimentos,kilogramos/litros
+,,Distribución/comercialización ,kilogramos/litros
+,,Hogares,kilogramos/litros
+,,Servicio público municipal,kilogramos
+,Destino de los residuos ,Alimentación animal ,kilogramos/litros
+,,Biomaterial/procesamiento ,kilogramos/litros
+,,Codigestión anaerobia ,kilogramos/litros
+,,Composteo ,kilogramos/litros
+,,Combustión controlada ,kilogramos/litros
+,,Aplicación en la tierra ,kilogramos/litros
+,,No cosechado ,kilogramos/litros
+,,Vertedero ,kilogramos/litros
+,,Basura ,kilogramos/litros
+,,Residuos al agua ,kilogramos/litros
+,,Banco de alimentos / Comedor público,kilogramos/litros

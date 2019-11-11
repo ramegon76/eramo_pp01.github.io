@@ -1,0 +1,42 @@
+descripcion,frec_ags
+111216 - Cultivo de papa,1
+111339 - Cultivo de otros frutales no cítricos y de nueces,1
+111411 - Cultivo de jitomate en invernaderos y otras estructuras agrícolas protegidas,1
+"112512 - Piscicultura y otra acuicultura, excepto camaronicultura",12
+311411 - Congelación de frutas y verduras,3
+311421 - Deshidratación de frutas y verduras,12
+311422 - Conservación de frutas y verduras por procesos distintos a la congelación y la deshidratación,4
+311423 - Conservación de guisos y otros alimentos preparados por procesos distintos a la congelación,12
+"311611 - Matanza de ganado, aves y otros animales comestibles",10
+"311612 - Corte y empacado de carne de ganado, aves y otros animales comestibles",6
+"311613 - Preparación de embutidos y otras conservas de carne de ganado, aves y otros animales comestibles",12
+311614 - Elaboración de manteca y otras grasas animales comestibles,5
+311812 - Panificación tradicional,459
+311820 - Elaboración de galletas y pastas para sopa,20
+311830 - Elaboración de tortillas de maíz y molienda de nixtamal,570
+312131 - Elaboración de bebidas alcohólicas a base de uva,7
+431121 - Comercio al por mayor de carnes rojas,26
+431122 - Comercio al por mayor de carne de aves,10
+431130 - Comercio al por mayor de frutas y verduras frescas,168
+"431150 - Comercio al por mayor de semillas y granos alimenticios, especias y chiles secos",34
+431160 - Comercio al por mayor de leche y otros productos lácteos,30
+461121 - Comercio al por menor de carnes rojas,700
+461122 - Comercio al por menor de carne de aves,128
+461123 - Comercio al por menor de pescados y mariscos,39
+461130 - Comercio al por menor de frutas y verduras frescas,905
+"461140 - Comercio al por menor de semillas y granos alimenticios, especias y chiles secos",189
+"461150 - Comercio al por menor de leche, otros productos lácteos y embutidos",158
+461190 - Comercio al por menor de otros alimentos,348
+462111 - Comercio al por menor en supermercados,64
+462112 - Comercio al por menor en minisupers,476
+622111 - Hospitales generales del sector privado,19
+622112 - Hospitales generales del sector público,13
+624411 - Guarderías del sector privado,151
+624412 - Guarderías del sector público,90
+721111 - Hoteles con otros servicios integrados,44
+722320 - Servicios de preparación de alimentos para ocasiones especiales,20
+722511 - Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida,373
+722513 - Restaurantes con servicio de preparación de antojitos,2413
+722514 - Restaurantes con servicio de preparación de tacos y tortas,1289
+"722515 - Cafeterías, fuentes de sodas, neverías, refresquerías y similares",1011
+722519 - Servicios de preparación de otros alimentos para consumo inmediato,685

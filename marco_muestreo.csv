@@ -1,0 +1,189 @@
+cod_clase,descrip_clase
+111110,Cultivo de soya 
+111121,Cultivo de cártamo 
+111122,Cultivo de girasol 
+111129,Cultivo anual de otras semillas oleaginosas 
+111131,Cultivo de frijol grano 
+111132,Cultivo de garbanzo grano 
+111139,Cultivo de otras leguminosas 
+111140,Cultivo de trigo 
+111151,Cultivo de maíz grano 
+111160,Cultivo de arroz 
+111191,Cultivo de sorgo grano 
+111192,Cultivo de avena grano 
+111193,Cultivo de cebada grano 
+111199,Cultivo de otros cereales 
+111211,Cultivo de jitomate o tomate rojo 
+111212,Cultivo de chile 
+111213,Cultivo de cebolla 
+111214,Cultivo de melón 
+111215,Cultivo de tomate verde 
+111216,Cultivo de papa 
+111217,Cultivo de calabaza 
+111218,Cultivo de sandía 
+111219,Cultivo de otras hortalizas 
+111310,Cultivo de naranja 
+111321,Cultivo de limón 
+111329,Cultivo de otros cítricos 
+111331,Cultivo de café 
+111332,Cultivo de plátano 
+111333,Cultivo de mango 
+111334,Cultivo de aguacate 
+111335,Cultivo de uva 
+111336,Cultivo de manzana 
+111337,Cultivo de cacao 
+111338,Cultivo de coco 
+111339,Cultivo de otros frutales no cítricos y de nueces 
+111411,Cultivo de jitomate en invernaderos y otras estructuras agrícolas protegidas 
+111412,Cultivo de fresa en invernaderos y otras estructuras agrícolas protegidas 
+111413,"Cultivo de bayas (berries) en invernaderos y otras estructuras agrícolas protegidas, excepto fresas "
+111414,Cultivo de chile en invernaderos y otras estructuras agrícolas protegidas 
+111415,Cultivo de manzana en invernaderos y otras estructuras agrícolas protegidas 
+111416,Cultivo de pepino en invernaderos y otras estructuras agrícolas protegidas 
+111419,Cultivo de otros productos alimenticios en invernaderos y otras estructuras agrícolas protegidas 
+111930,Cultivo de caña de azúcar 
+111991,Cultivo de agaves alcoholeros 
+111992,Cultivo de cacahuate 
+111993,Actividades agrícolas combinadas con explotación de animales 
+111994,Actividades agrícolas combinadas con aprovechamiento forestal 
+111995,Actividades agrícolas combinadas con explotación de animales y aprovechamiento forestal 
+112110,Explotación de bovinos para la producción de carne 
+112120,Explotación de bovinos para la producción de leche 
+112131,Explotación de bovinos para la producción conjunta de leche y carne 
+112139,Explotación de bovinos para otros propósitos 
+112211,Explotación de porcinos en granja 
+112212,Explotación de porcinos en traspatio 
+112311,Explotación de gallinas para la producción de huevo fértil 
+112312,Explotación de gallinas para la producción de huevo para plato 
+112320,Explotación de pollos para la producción de carne 
+112330,Explotación de guajolotes o pavos 
+112340,Producción de aves en incubadora 
+112390,Explotación de otras aves para producción de carne y huevo 
+112410,Explotación de ovinos 
+112420,Explotación de caprinos 
+112511,Camaronicultura 
+112512,"Piscicultura y otra acuicultura, excepto camaronicultura "
+112910,Apicultura 
+112930,Cunicultura y explotación de animales con pelaje fino 
+112991,Explotación de animales combinada con aprovechamiento forestal 
+114111,Pesca de camarón 
+114112,Pesca de túnidos 
+114113,Pesca de sardina y anchoveta 
+114119,"Pesca y captura de otros peces, crustáceos, moluscos y otras especies "
+311211,Beneficio del arroz 
+311212,Elaboración de harina de trigo 
+311213,Elaboración de harina de maíz 
+311214,Elaboración de harina de otros productos agrícolas 
+311215,Elaboración de malta 
+311221,Elaboración de féculas y otros almidones y sus derivados 
+311222,Elaboración de aceites y grasas vegetales comestibles 
+311230,Elaboración de cereales para el desayuno
+311311,Elaboración de azúcar de caña 
+311319,Elaboración de otros azúcares 
+311340,"Elaboración de dulces, chicles y productos de confitería que no sean de chocolate "
+311350,Elaboración de chocolate y productos de chocolate 
+311411,Congelación de frutas y verduras 
+311412,Congelación de guisos y otros alimentos preparados 
+311421,Deshidratación de frutas y verduras 
+311422,Conservación de frutas y verduras por procesos distintos a la congelación y la deshidratación 
+311423,Conservación de guisos y otros alimentos preparados por procesos distintos a la congelación 
+311511,Elaboración de leche líquida 
+311512,"Elaboración de leche en polvo, condensada y evaporada "
+311513,Elaboración de derivados y fermentos lácteos 
+311520,Elaboración de helados y paletas 
+311611,"Matanza de ganado, aves y otros animales comestibles "
+311612,"Corte y empacado de carne de ganado, aves y otros animales comestibles "
+311613,"Preparación de embutidos y otras conservas de carne de ganado, aves y otros animales comestibles "
+311614,Elaboración de manteca y otras grasas animales comestibles 
+311710,Preparación y envasado de pescados y mariscos 
+311811,Panificación industrial 
+311812,Panificación tradicional
+311813,Elaboración de tortillas de harina de trigo de forma tradicional 
+311820,Elaboración de galletas y pastas para sopa
+311830,Elaboración de tortillas de maíz y molienda de nixtamal 
+311910,Elaboración de botanas 
+311921,Beneficio del café 
+311922,Elaboración de café tostado y molido 
+311923,Elaboración de café instantáneo 
+311924,Preparación y envasado de té 
+311930,"Elaboración de concentrados, polvos, jarabes y esencias de sabor para bebidas "
+311940,Elaboración de condimentos y aderezos 
+311991,Elaboración de gelatinas y otros postres en polvo 
+311992,Elaboración de levadura 
+311993,Elaboración de alimentos frescos para consumo inmediato 
+311999,Elaboración de otros alimentos 
+312111,Elaboración de refrescos y otras bebidas no alcohólicas 
+312120,Elaboración de cerveza 
+312131,Elaboración de bebidas alcohólicas a base de uva 
+312132,Elaboración de pulque 
+312139,Elaboración de sidra y otras bebidas fermentadas 
+312141,Elaboración de ron y otras bebidas destiladas de caña 
+312142,Elaboración de bebidas destiladas de agave 
+312149,Elaboración de otras bebidas destiladas 
+431121,Comercio al por mayor de carnes  rojas
+431122,Comercio al por mayor de carne de aves
+431123,Comercio al por mayor de pescados y mariscos
+431130,Comercio al por mayor de frutas y verduras frescas 
+431140,Comercio al por mayor de huevo 
+431150,"Comercio al por mayor de semillas y granos alimenticios, especias y chiles secos "
+431160,Comercio al por mayor de leche y otros productos lácteos 
+431170,Comercio al por mayor de embutidos 
+431191,Comercio al por mayor de pan y pasteles 
+431192,Comercio al por mayor de botanas y frituras 
+431193,Comercio al por mayor de conservas alimenticias 
+431194,Comercio al por mayor de miel 
+431199,Comercio al por mayor de otros alimentos 
+431211,Comercio al por mayor de bebidas no alcohólicas y hielo 
+434228,Comercio al por mayor de ganado y aves en pie 
+461121,Comercio al por menor de carnes rojas 
+461122,Comercio al por menor de carne de aves 
+461123,Comercio al por menor de pescados y mariscos 
+461130,Comercio al por menor de frutas y verduras frescas 
+461140,"Comercio al por menor de semillas y granos alimenticios, especias y chiles secos "
+461150,"Comercio al por menor de leche, otros productos lácteos y embutidos "
+461160,Comercio al por menor de dulces y materias primas para repostería 
+461170,Comercio al por menor de paletas de hielo y helados 
+461190,Comercio al por menor de otros alimentos 
+462111,Comercio al por menor en supermercados 
+462112,Comercio al por menor en minisupers 
+464113,"Comercio al por menor de productos naturistas, medicamentos homeopáticos y de complementos alimenticios "
+484111,Autotransporte local de productos agrícolas sin refrigeración 
+484121,Autotransporte foráneo de productos agrícolas sin refrigeración 
+493130,Almacenamiento de productos agrícolas que no requieren refrigeración 
+611111,Escuelas de educación preescolar del sector privado
+611121,Escuelas de educación primaria del sector privado
+611131,Escuelas de educación secundaria general del sector privado
+611141,Escuelas de educación secundaria técnica del sector privado
+611311,Escuelas de educación superior del sector privado
+611312,Escuelas de educación superior del sector público
+622111,Hospitales generales del sector privado
+622112,Hospitales generales del sector público
+622211,Hospitales psiquiátricos y para el tratamiento por adicción del sector privado
+622212,Hospitales psiquiátricos y para el tratamiento por adicción del sector público
+622311,Hospitales del sector privado de otras especialidades médicas
+622312,Hospitales del sector público de otras especialidades médicas
+623111,"Residencias del sector privado con cuidados de enfermeras para enfermos convalecientes, en rehabilitación, incurables y terminales"
+623112,"Residencias del sector público con cuidados de enfermeras para enfermos convalecientes, en rehabilitación, incurables y terminales"
+623211,Residencias del sector privado para el cuidado de personas con problemas de retardo mental
+623212,Residencias del sector público para el cuidado de personas con problemas de retardo mental
+623221,Residencias del sector privado para el cuidado de personas con problemas de trastorno mental y adicción
+623222,Residencias del sector público para el cuidado de personas con problemas de trastorno mental y adicción
+623311,Asilos y otras residencias del sector privado para el cuidado de ancianos
+623312,Asilos y otras residencias del sector público para el cuidado de ancianos
+623991, Orfanatos y otras residencias de asistencia social del sector privado
+623992, Orfanatos y otras residencias de asistencia social del sector público
+624221,Refugios temporales comunitarios del sector privado
+624222,Refugios temporales comunitarios del sector público
+624231,Servicios de emergencia comunitarios prestados por el sector privado
+624232,Servicios de emergencia comunitarios prestados por el sector público
+624411,Guarderías del sector privado
+624412,Guarderías del sector público
+721111,Hoteles con otros servicios integrados 
+721113,Moteles 
+722320,Servicios de preparación de alimentos para ocasiones especiales 
+722330,Servicios de preparación de alimentos en unidades móviles 
+722511,Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida 
+722513,Restaurantes con servicio de preparación de antojitos 
+722514,Restaurantes con servicio de preparación de tacos y tortas 
+722515,"Cafeterías, fuentes de sodas, neverías, refresquerías y similares "
+722519,Servicios de preparación de otros alimentos para consumo inmediato

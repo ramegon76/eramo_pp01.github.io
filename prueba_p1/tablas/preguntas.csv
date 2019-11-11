@@ -1,0 +1,10 @@
+Pregunta,Si,No,NE
+"p2.1 ¿Es para consumo humano, animal o ambos?",120,0,19
+"p2.3) ¿Tipo de residuos (vegetal, Animal)?",120,0,19
+p2.4.a) ¿Nombre del residuo?,120,0,19
+p2.4.b ¿Cantidad PDA?,119,0,20
+P2.4.c) ¿Unidad de medida?,117,2,20
+p2.4.d) ¿Cantidad NO comestible?,119,0,20
+p2.4.f) ¿Periodo?,119,0,20
+p2.4.g) ¿Causa de Pérdida o Desperdicio?,119,0,20
+p2.4.h) ¿Destino de los residuos?,119,0,20

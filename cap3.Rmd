@@ -1,0 +1,17 @@
+---
+title: "Prueba Piloto 02, Nacional"
+--- 
+<br>
+<br>
+
+
+
+<div class=text-justify>
+
+# **Avance** 
+
+Por el momento, sólo se cuenta con un esbozo de muestra probabilística diseñada, a manera de ejemplo, para la ciudad de Guadalajara. Se puede consultar [aquí](muestra_eramo_2020/index.html){target="_blank"}
+
+
+
+</div>

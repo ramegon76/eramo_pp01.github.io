@@ -1,0 +1,23 @@
+name: eramo_pp01
+output_dir: '.'
+navbar:
+  title: ERAMO 
+  type: inverse
+  right:
+  - text: Documento metodológico
+    href: index.html
+  - text: Prueba piloto Aguascalientes
+    href: cap2.html
+  - text: Prueba Piloto Nacional
+    href: cap3.html
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+    theme: yeti
+    highlight: tango
+    font-size: 10px
+    lib_dir: site_libs
+    self_contained: no
+    
+   
