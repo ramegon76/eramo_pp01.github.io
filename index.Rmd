@@ -34,6 +34,85 @@ Se pretende caracterizar también el **desperdicio** de alimentos, entendido com
 
 En algún momento las variaciones entre las definiciones de pérdida y desperdicio de alimentos desaparecen. La diferencia principal estriba en que la pérdida tiende a centrarse en las etapas iniciales de la cadena de abasto alimentaria (es decir, producción y procesamiento de alimentos), mientras que el desperdicio de alimentos se concentra sobre todo en las etapas finales de la cadena (es decir, distribución, venta al menudeo, servicios de preparación de alimentos y consumo). El INEGI pretende junto con instituciones, organizaciones y la academia, definir los mecanismos para captar la información necesaria que de soporte a las iniciativas en curso y las que vienen para abordar y ofrecer soluciones a este problema nacional y mundial.
 
+<br>
+
+**Agua**
+
+Entre los efectos ambientales que resultan de la pérdida y desperdicio de alimentos, se encuentra el tema del agua, que se debe analizar al menos en dos niveles: el consumo de este recurso para la producción de alimentos y como residuos que terminan en los ríos y cuerpos de agua, además de los propios mantos freáticos. Aprovechar de manera eficiente los alimentos y sus residuos evita que se contaminen las aguas superficiales y subterráneas, lo que a su vez resulta en beneficio de la conservación del agua potable.
+
+En algunos países se ha comprendido la importancia de un manejo apropiado de los residuos orgánicos y alimentarios, así por ejemplo algunos estados de Norteamérica han prohibido la disposición final de éstos y les obliga a definir metas de aprovechamiento para evitar que lleguen a los sitios de disposición final. Entre los aprovechamientos se pueden mencionar, a la Universidad Purdue (Indiana) donde los desechos alimentarios se recolectan del campus y se envían a plantas de tratamiento de aguas residuales para codigestión, lo que contribuye a la generación de electricidad para la planta de tratamiento.
+
+Existe una creciente necesidad de contar con información oficial que, de respaldo a la toma de decisiones de política pública sobre la cantidad de alimentos y residuos orgánicos generados, así como el aprovechamiento de éstos en toda la cadena alimentaria, en México, Estados Unidos y Canadá. Entre ellos los que tienen que ver con la presencia de residuos orgánicos en las aguas residuales, así como las que resultan de las plantas de tratamiento de esas aguas.
+
+<br/>
+
+<p align="center"> **Consumo de agua en los países de América del Norte** </p>
+
+<br/>
+
+
+```{r agua1, echo=FALSE, out.width= "60%",warning=FALSE}
+library(kableExtra)
+agua1 <- read.csv("agua.csv", encoding = "UTF")
+names(agua1) <- c( "PAÍS / REGIÓN", "CONSUMO DE AGUA (MILES DE MILLONES DE METROS CÚBICOS)")
+
+kableExtra::kable(agua1, align = c('l','r')) %>%
+ kableExtra::kable_styling(bootstrap_options = c("striped", "hover"))
+
+```  
+*Fuente: [Kummu et al.(2012), _Lost food, wasted resources: Global food supply chain losses and their impacts onfreshwater, cropland, and fertiliser use_, Science of the Total Environment 438 (2012) 477–489](pdfs/kummu_2012.pdf){target="_blank"} 
+</br>
+</br>
+
+La pérdida y desperdicio de alimentos conllevan un derroche de recursos naturales invertidos para que sea posible su producción, no solo se trata del suelo o fertilizantes, sino también del agua que se necesitó para su desarrollo, como se aprecia en el cuadro anterior, más de 17 millones de metros cúbicos al año fueron utilizados en la producción de alimentos que terminaron en la basura o las aguas residuales.
+
+</br>
+
+**Suelos**
+
+Los impactos que genera la cantidad de residuos orgánicos que llegan a los sitios de disposición final municipales y privados en México, tiene que ver no solo con las emisiones de metano, pues la composición de los residuos puede llegar a ser de hasta 50% de orgánicos en este tipo de sitios, lo que significa que la superficie y espacio de los suelos destinada para recibir los residuos municipales se debe al menos por lo que toca a la mitad del problema a los residuos de tipo orgánico.
+De acuerdo con el informe Huella del despilfarro de alimentos, de la FAO (2013), entre los impactos al ambiente que resultan de la cadena alimentaria, desde su producción hasta la pérdida y desperdicio de alimentos, podemos encontrar: millones de hectáreas de tierras de cultivo desperdiciadas; millones de toneladas de fertilizantes aplicados; millones de m3 de espacio ocupado en rellenos sanitarios; millones de dólares estadounidenses (USD) pagados en tarifas por descarga o depósito de desechos; millones de USD en concepto de pérdida de biodiversidad, y billones de kilocalorías (kcal = 1,000 calorías) en posible pérdida de energía.
+
+En la cadena alimentaria, el momento de la producción de alimentos se caracteriza por ser el de mayor exposición para la pérdida de alimentos, pues son muchos los factores que inciden para que ello suceda y van desde la semilla, los abonos, las plagas y enfermedades de los cultivos, la tecnología, forma de producción, monocultivo, tipo de intercalado, el clima, estándares de calidad y los precios de mercado, sólo por mencionar algunos. Las pérdidas pueden ser parciales o totales y generalmente se cuantifica por toneladas y pueden ser de desde decenas hasta miles de ellas. 
+
+El suelo juega un papel importante en la cantidad y calidad de los alimentos producidos, pues la erosión, salinización, reducen la capacidad de los suelos para el intercambio de nutrientes con los cultivos. [Estimaciones de la FAO del año 2015](http://www.fao.org/news/story/es/item/357165/icode/){target="_blank"}, indican que se pierden aproximadamente 7.6 millones de toneladas de producción de cereales por estas causas. El reto para el año 2050 no sólo es producir más alimentos para la creciente población mundial sino, además evitar que cerca de 1.5 millones de kilómetros cuadrados de tierras agrícolas se pierdan por causa de la erosión.
+
+</br>
+
+**Gases de Efecto Invernadero**
+
+Un tema fuertemente vinculado a pérdida y el desperdicio de alimentos es la generación de metano que es uno de los gases de efecto invernadero (GEI), una de las fuentes importantes de este gas es la que resulta de la descomposición de los residuos orgánicos en los sitios de disposición final de los residuos sólidos urbanos municipales. La Comisión de Cooperación Ambiental para América del Norte (CCA) estima que los tres países que son parte del TLCAN generan el equivalente a 200 millones de toneladas de CO2 aproximadamente, al año de GEI.
+
+Los tres países de américa del norte han generado información sobre la cantidad de emisiones de gases de efecto invernadero que resultan de los rellenos sanitarios ubicados en sus territorios, con el objetivo de cumplir con el compromiso de la Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC), se trata de estimaciones relativas a las emisiones de GEI usando metodologías aprobadas por el Panel Intergubernamental sobre el Cambio Climático (IPCC).
+
+<br/>
+
+<p align="center"> **Emisiones anuales estimadas de GEI procedentes de la disposición final de residuos orgánicos** </p>
+
+<br/>
+
+
+```{r gei1, echo=FALSE, out.width= "60%",warning=FALSE}
+library(kableExtra)
+gei1 <- read.csv("emisiones.csv", encoding = "UTF")
+names(agua1) <- c( "PAÍS", "EMISIONES")
+
+kableExtra::kable(agua1, align = c('l','r')) %>%
+ kableExtra::kable_styling(bootstrap_options = c("striped", "hover"))
+
+```  
+*Nota:  Es probable que las emisiones provenientes de la gestión de residuos orgánicos en México sean considerablemente más elevadas que las mostradas en este cuadro. No obstante, resulta complicado obtener estimaciones confiables de tales emisiones, debido a la falta de información coherente y confiable, así como al elevado número de rellenos sanitarios y vertederos a cielo abierto que operan sin ningún tipo de control en México*
+
+<br>
+
+*Fuente: [CCA (2017), _Caracterización y gestión de los residuos orgánicos en América del Norte, informe sintético_, Comisión para la Cooperación Ambiental, Montreal, 52 pp](pdfs/11770-characterization-and-management-organic-waste-in-north-america-white-paper-es.pdf){target="_blank"} 
+
+</br>
+</br>
+
+La cuantificación de la materia orgánica que se genera, así como la cantidad de ésta que se pierde o desperdicia en toda la cadena alimenticia, es útil para la medición del impacto ambiental que genera su descomposición y conversión en GEI. Para reducir y eventualmente evitar que lleguen los residuos orgánicos a los sitios de disposición final, es de mucha utilidad caracterizar el tipo, origen y causa del desecho o desperdicio para elaborar políticas o programas de reducción desde la fuente. Es en este contexto que la ERAMO puede jugar un papel importante para contar con información sobre el tipo de residuos y las razones para su no consumo o reutilización. 
+
+
 </br>
 </br>
 
