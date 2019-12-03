@@ -1,0 +1,18 @@
+name: muestra_eramo
+output_dir: '.'
+navbar:
+  title: Encuesta de Residuos de Alimentos y Materia Orgánica. Diseño de muestra. 
+  type: inverse
+  right:
+  - text: Generalidades de la ERAMO
+    href: index.html
+  - text: Diseño de la muestra
+    href: cap2.html
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+    theme: cosmo
+    highlight: zenburn
+    lib_dir: site_libs
+    self_contained: no

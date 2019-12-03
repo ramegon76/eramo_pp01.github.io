@@ -1,0 +1,13 @@
+base
+sp
+rgdal
+leaflet
+leaflet.extras
+mapview
+raster
+bitops
+rjson
+stringr
+knitr
+rmdformats
+DT

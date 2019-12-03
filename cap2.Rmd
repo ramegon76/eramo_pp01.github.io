@@ -429,7 +429,7 @@ Los principales resultados de la observación conceptual de las entrevistas se m
 
 <br>
 
-<iframe src="prueba_p1/archivo_pdf/Relatorias.pdf" style="width:100%; height:500px;" frameborder="0"></iframe>
+<iframe src="prueba_p1/archivo_pdf/Relatorias1.pdf" style="width:100%; height:500px;" frameborder="0"></iframe>
 
 <br/>
 
