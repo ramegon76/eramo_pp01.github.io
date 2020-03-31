@@ -1302,6 +1302,14 @@ d. Hogares (consumo)
 <br>
 <br>
 
+
+# **Evaluación de la prueba**
+
+<iframe src="pdfs/Evaluacion_interna_PP01_ERAMO_2019.pdf" style="width:100%; height:600px;" frameborder="0"></iframe>
+
+<br>
+<br>
+
 # **Estatus actual **
 
 Al finalizar el año 2019, la ERAMO cuenta con un Documento Metodológico que retoma el marco teórico y conceptual de la FAO y de otras experiencias internacionales para elaborar su propio marco; el documento en cuestión registra investigaciones internacionales y nacionales sobre el tema; consigna la ausencia de información oficial para México y la necesidad de contar con ella;  la justificación para su puesta en marcha, con base en el LSNIEG y el Reglamento Interior de INEGI; se indican las variables a captar, la propuesta inicial de instrumento de captación, la presentación sobre la tecnología del bien público del banco mundial a utilizar en la prueba, entre otros temas y en particular se enfatiza la organización del proyecto en páginas Web interactivas, desarrolladas con el software R y RStudio.
